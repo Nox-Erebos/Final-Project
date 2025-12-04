@@ -1,6 +1,5 @@
-hello :>
-genre
-Storyline:
+> Genre
+Storyline: 
 Genre: fantasy
 purpose: getting all 5 stones in order to revive someone 
 functionality: WASD
